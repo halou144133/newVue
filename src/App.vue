@@ -1,6 +1,7 @@
 <template>
   <h1>十步杀一人，千里不留行</h1>
   <img alt="Vue logo" src="./assets/logo.png">
+  <div>这是app</div>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
